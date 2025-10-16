@@ -1,15 +1,15 @@
-# Civitai 同步报告 - 2025-10-16 00:44:37 UTC
+# Civitai 同步报告 - 2025-10-16 01:26:58 UTC
 
 - **新增图片**: 6 张
 - **删除图片**: 0 张
 
 ## 新增图片详情
-- ID: 106182696, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4bf1f224-74d5-48bb-a65b-84d84ad7f476/original=true/4bf1f224-74d5-48bb-a65b-84d84ad7f476.jpeg
-- ID: 106182431, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36e415af-1685-4037-ae36-41b667eae5a4/original=true/36e415af-1685-4037-ae36-41b667eae5a4.jpeg
-- ID: 106182695, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f32d4af-38cc-4ad4-8a19-14c6b195bea4/original=true/6f32d4af-38cc-4ad4-8a19-14c6b195bea4.jpeg
-- ID: 106182432, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac0d1cf5-842d-481f-a567-3bd2d1534240/original=true/ac0d1cf5-842d-481f-a567-3bd2d1534240.jpeg
-- ID: 106182236, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e05fff02-bc2e-474b-a4db-22291b27026d/original=true/e05fff02-bc2e-474b-a4db-22291b27026d.jpeg
-- ID: 106182235, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b86fe1bf-2461-4de1-9a53-b201b965adfd/original=true/b86fe1bf-2461-4de1-9a53-b201b965adfd.jpeg
+- ID: 106162696, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/179076c8-acd8-429b-ba10-d98c3c44e6d7/original=true/179076c8-acd8-429b-ba10-d98c3c44e6d7.jpeg
+- ID: 106159928, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfc2002a-b17b-49ba-b10f-537f4012a59b/original=true/cfc2002a-b17b-49ba-b10f-537f4012a59b.jpeg
+- ID: 106160376, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d268576f-0189-4abd-805a-c45a55b7c93d/original=true/d268576f-0189-4abd-805a-c45a55b7c93d.jpeg
+- ID: 106169621, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c85b325c-46f2-409c-a03c-ac8f15ca54ab/original=true/c85b325c-46f2-409c-a03c-ac8f15ca54ab.jpeg
+- ID: 106198947, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/22993ad8-12c2-4ecb-a20f-607c55830f39/original=true/22993ad8-12c2-4ecb-a20f-607c55830f39.jpeg
+- ID: 106189919, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a27fed3-5af6-4925-b8b3-e71a88381ab8/original=true/6a27fed3-5af6-4925-b8b3-e71a88381ab8.jpeg
 
 ## 删除图片详情
 无
