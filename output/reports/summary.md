@@ -1,18 +1,15 @@
-# Civitai 同步报告 - 2025-10-29 00:47:32 UTC
+# Civitai 同步报告 - 2025-10-29 01:41:53 UTC
 
-- **新增图片**: 9 张
+- **新增图片**: 6 张
 - **删除图片**: 0 张
 
 ## 新增图片详情
-- ID: 107957073, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8cb74a75-8357-4cf7-931a-0719a2feb6d7/original=true/8cb74a75-8357-4cf7-931a-0719a2feb6d7.jpeg
-- ID: 107957043, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7267a20-6f8f-4994-b63f-7771e74917b1/original=true/c7267a20-6f8f-4994-b63f-7771e74917b1.jpeg
-- ID: 107957109, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/78f1eda2-78c6-40b1-82e4-0995b8e09905/original=true/78f1eda2-78c6-40b1-82e4-0995b8e09905.jpeg
-- ID: 107957110, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/01f54922-b9fd-452d-a807-043c9c56ba17/original=true/01f54922-b9fd-452d-a807-043c9c56ba17.jpeg
-- ID: 107957044, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/285631ce-d69c-41fb-a800-250420c20f2c/original=true/285631ce-d69c-41fb-a800-250420c20f2c.jpeg
-- ID: 107957055, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/080eeafc-2b33-48a6-8a55-c3fe955a1b34/original=true/080eeafc-2b33-48a6-8a55-c3fe955a1b34.jpeg
-- ID: 107957054, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/102f2a8c-2fa6-42d2-aaf3-313f17249e96/original=true/102f2a8c-2fa6-42d2-aaf3-313f17249e96.jpeg
-- ID: 107957045, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c48a44dc-763e-44d2-adb8-4efcbe81943a/original=true/c48a44dc-763e-44d2-adb8-4efcbe81943a.jpeg
-- ID: 107957072, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35b42636-047e-44ee-999c-29a270edd927/original=true/35b42636-047e-44ee-999c-29a270edd927.jpeg
+- ID: 107972837, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/296ef8fd-cb00-43ab-b1d3-274382155351/original=true/296ef8fd-cb00-43ab-b1d3-274382155351.jpeg
+- ID: 107908789, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/39fe4577-361c-4a51-a098-d21d3c813f94/original=true/39fe4577-361c-4a51-a098-d21d3c813f94.jpeg
+- ID: 107961356, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4023656-3ccf-41f8-b27b-ffabedbd9633/original=true/f4023656-3ccf-41f8-b27b-ffabedbd9633.jpeg
+- ID: 108008033, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d7912da-5795-4d26-9b39-5093e511fa97/original=true/7d7912da-5795-4d26-9b39-5093e511fa97.jpeg
+- ID: 107973336, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a13059f6-7209-4060-9d51-ac79a6e03f83/original=true/a13059f6-7209-4060-9d51-ac79a6e03f83.jpeg
+- ID: 107975633, URL: https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f374d298-05f4-49c9-a506-c0b5ea9b454a/original=true/f374d298-05f4-49c9-a506-c0b5ea9b454a.jpeg
 
 ## 删除图片详情
 无
