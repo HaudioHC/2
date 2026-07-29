@@ -14,9 +14,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 5,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -41,9 +41,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 5,
             "dislikeCount": 0,
-            "heartCount": 0,
+            "heartCount": 1,
             "commentCount": 0
         },
         "meta": null,
@@ -68,9 +68,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 4,
             "dislikeCount": 0,
-            "heartCount": 0,
+            "heartCount": 1,
             "commentCount": 0
         },
         "meta": null,
@@ -95,7 +95,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 6,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -122,7 +122,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 5,
             "dislikeCount": 0,
             "heartCount": 1,
             "commentCount": 0
@@ -149,7 +149,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 0,
+            "likeCount": 2,
             "dislikeCount": 0,
             "heartCount": 1,
             "commentCount": 0
@@ -176,7 +176,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 2,
+            "likeCount": 6,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -203,7 +203,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 2,
+            "likeCount": 4,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -230,7 +230,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 1,
+            "likeCount": 4,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -257,9 +257,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 5,
+            "likeCount": 6,
             "dislikeCount": 0,
-            "heartCount": 4,
+            "heartCount": 5,
             "commentCount": 0
         },
         "meta": null,
@@ -502,7 +502,7 @@
             "laughCount": 0,
             "likeCount": 5,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -581,9 +581,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 16,
+            "likeCount": 17,
             "dislikeCount": 0,
-            "heartCount": 8,
+            "heartCount": 9,
             "commentCount": 0
         },
         "meta": null,
@@ -2714,9 +2714,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 10,
+            "likeCount": 9,
             "dislikeCount": 0,
-            "heartCount": 6,
+            "heartCount": 5,
             "commentCount": 0
         },
         "meta": null,
@@ -61177,7 +61177,7 @@
         "stats": {
             "cryCount": 2,
             "laughCount": 1,
-            "likeCount": 69,
+            "likeCount": 70,
             "dislikeCount": 0,
             "heartCount": 39,
             "commentCount": 0
@@ -85630,7 +85630,7 @@
             "laughCount": 12,
             "likeCount": 203,
             "dislikeCount": 0,
-            "heartCount": 90,
+            "heartCount": 89,
             "commentCount": 0
         },
         "meta": null,
@@ -85795,7 +85795,7 @@
             "laughCount": 12,
             "likeCount": 241,
             "dislikeCount": 0,
-            "heartCount": 118,
+            "heartCount": 117,
             "commentCount": 0
         },
         "meta": null,
@@ -85861,7 +85861,7 @@
             "laughCount": 16,
             "likeCount": 242,
             "dislikeCount": 0,
-            "heartCount": 119,
+            "heartCount": 118,
             "commentCount": 0
         },
         "meta": null,
@@ -85927,7 +85927,7 @@
             "laughCount": 24,
             "likeCount": 401,
             "dislikeCount": 0,
-            "heartCount": 154,
+            "heartCount": 153,
             "commentCount": 0
         },
         "meta": null,
@@ -86669,7 +86669,7 @@
             "laughCount": 27,
             "likeCount": 367,
             "dislikeCount": 0,
-            "heartCount": 149,
+            "heartCount": 148,
             "commentCount": 0
         },
         "meta": null,
@@ -88598,7 +88598,7 @@
             "laughCount": 21,
             "likeCount": 233,
             "dislikeCount": 0,
-            "heartCount": 89,
+            "heartCount": 88,
             "commentCount": 0
         },
         "meta": null,
@@ -88632,7 +88632,7 @@
             "laughCount": 17,
             "likeCount": 204,
             "dislikeCount": 0,
-            "heartCount": 84,
+            "heartCount": 83,
             "commentCount": 0
         },
         "meta": null,
@@ -91388,7 +91388,7 @@
             "laughCount": 28,
             "likeCount": 380,
             "dislikeCount": 0,
-            "heartCount": 168,
+            "heartCount": 167,
             "commentCount": 0
         },
         "meta": null,
@@ -92116,7 +92116,7 @@
             "laughCount": 39,
             "likeCount": 679,
             "dislikeCount": 0,
-            "heartCount": 345,
+            "heartCount": 344,
             "commentCount": 0
         },
         "meta": null,
@@ -93345,7 +93345,7 @@
         "createdAt": "2025-10-27T16:03:55.351Z",
         "postId": 23901162,
         "stats": {
-            "cryCount": 56,
+            "cryCount": 57,
             "laughCount": 71,
             "likeCount": 963,
             "dislikeCount": 0,
@@ -93587,7 +93587,7 @@
             "laughCount": 66,
             "likeCount": 665,
             "dislikeCount": 0,
-            "heartCount": 229,
+            "heartCount": 228,
             "commentCount": 0
         },
         "meta": null,
@@ -177556,7 +177556,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 47,
+            "likeCount": 48,
             "dislikeCount": 0,
             "heartCount": 33,
             "commentCount": 0
