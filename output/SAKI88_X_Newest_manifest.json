@@ -14,9 +14,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 0,
+            "likeCount": 3,
             "dislikeCount": 0,
-            "heartCount": 0,
+            "heartCount": 1,
             "commentCount": 0
         },
         "meta": null,
@@ -41,9 +41,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 6,
+            "likeCount": 9,
             "dislikeCount": 0,
-            "heartCount": 2,
+            "heartCount": 3,
             "commentCount": 0
         },
         "meta": null,
@@ -68,9 +68,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 6,
+            "likeCount": 7,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -95,9 +95,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 4,
+            "likeCount": 5,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -122,7 +122,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 7,
+            "likeCount": 8,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -149,9 +149,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 5,
+            "likeCount": 7,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -176,9 +176,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 2,
+            "likeCount": 3,
             "dislikeCount": 0,
-            "heartCount": 1,
+            "heartCount": 2,
             "commentCount": 0
         },
         "meta": null,
@@ -203,7 +203,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 6,
+            "likeCount": 7,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -230,7 +230,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 4,
+            "likeCount": 6,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -257,7 +257,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 4,
+            "likeCount": 5,
             "dislikeCount": 0,
             "heartCount": 0,
             "commentCount": 0
@@ -610,7 +610,7 @@
             "laughCount": 0,
             "likeCount": 17,
             "dislikeCount": 0,
-            "heartCount": 9,
+            "heartCount": 10,
             "commentCount": 0
         },
         "meta": null,
@@ -1040,9 +1040,9 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 8,
+            "likeCount": 9,
             "dislikeCount": 0,
-            "heartCount": 2,
+            "heartCount": 3,
             "commentCount": 0
         },
         "meta": null,
@@ -84060,7 +84060,7 @@
             "laughCount": 6,
             "likeCount": 60,
             "dislikeCount": 0,
-            "heartCount": 68,
+            "heartCount": 69,
             "commentCount": 0
         },
         "meta": null,
@@ -87172,7 +87172,7 @@
             "laughCount": 65,
             "likeCount": 624,
             "dislikeCount": 0,
-            "heartCount": 329,
+            "heartCount": 330,
             "commentCount": 0
         },
         "meta": null,
@@ -184161,7 +184161,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 4,
+            "likeCount": 5,
             "dislikeCount": 0,
             "heartCount": 5,
             "commentCount": 0
@@ -184269,7 +184269,7 @@
         "stats": {
             "cryCount": 0,
             "laughCount": 0,
-            "likeCount": 4,
+            "likeCount": 5,
             "dislikeCount": 0,
             "heartCount": 4,
             "commentCount": 0
